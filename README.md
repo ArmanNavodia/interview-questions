@@ -10,3 +10,5 @@
 * [Move Zeroes](https://github.com/ArmanNavodia/interview-questions/blob/main/Arrays/283.%20Move%20Zeroes.cpp)
 * [Best Time to Buy and Sell Stock](https://github.com/ArmanNavodia/interview-questions/blob/main/Arrays/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)
 * [Chocolate Distribution Problem](https://github.com/ArmanNavodia/interview-questions/blob/main/Arrays/Chocolate%20Distribution%20Problem.cpp)
+* [Two Sum](https://github.com/ArmanNavodia/interview-questions/blob/main/Arrays/1.%20Two%20Sum.cpp)
+* [Best Time to Buy and Sell Stock II](https://github.com/ArmanNavodia/interview-questions/blob/main/Arrays/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp)
