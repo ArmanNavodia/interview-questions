@@ -12,3 +12,9 @@
 * [Chocolate Distribution Problem](https://github.com/ArmanNavodia/interview-questions/blob/main/Arrays/Chocolate%20Distribution%20Problem.cpp)
 * [Two Sum](https://github.com/ArmanNavodia/interview-questions/blob/main/Arrays/1.%20Two%20Sum.cpp)
 * [Best Time to Buy and Sell Stock II](https://github.com/ArmanNavodia/interview-questions/blob/main/Arrays/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp)
+
+## Day 2
+### Revised the string matching algorithms and solved following questions
+* [Valid Parentheses](https://github.com/ArmanNavodia/interview-questions/blob/main/Strings/20.%20Valid%20Parentheses.cpp)
+* [Implement strStr()](https://github.com/ArmanNavodia/interview-questions/blob/main/Strings/28.%20Implement%20strStr().cpp)
+* [Longest Common Prefix](https://github.com/ArmanNavodia/interview-questions/blob/main/Strings/14.%20Longest%20Common%20Prefix.cpp)
