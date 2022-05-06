@@ -36,7 +36,7 @@
 * [Permutations in array](https://github.com/ArmanNavodia/interview-questions/blob/main/Sorting%20and%20Searching/Permutations%20in%20array.cpp)
 * [Find Pair Given Difference](https://github.com/ArmanNavodia/interview-questions/blob/main/Sorting%20and%20Searching/Find%20Pair%20Given%20Difference.cpp)
 
-###Solved the following problems on Linked List
+### Solved the following problems on Linked List
 * [Convert Binary Number in a Linked List to Integer](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.cpp)
 * [Linked List Cycle](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/141.%20Linked%20List%20Cycle.cpp)
 * [Remove Duplicates from Sorted List](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.cpp)
