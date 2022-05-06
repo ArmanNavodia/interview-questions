@@ -30,3 +30,16 @@
 * [Missing Number](https://github.com/ArmanNavodia/interview-questions/blob/main/Mathematical%20Problems/268.%20Missing%20Number.cpp)
 * [Reverse Integer](https://github.com/ArmanNavodia/interview-questions/blob/main/Mathematical%20Problems/7.%20Reverse%20Integer.cpp)
 * [Power of Two](https://github.com/ArmanNavodia/interview-questions/blob/main/Mathematical%20Problems/231.%20Power%20of%20Two.cpp)
+
+## Day 4
+### Solved the following problems on searching and sorting
+* [Permutations in array](https://github.com/ArmanNavodia/interview-questions/blob/main/Sorting%20and%20Searching/Permutations%20in%20array.cpp)
+* [Find Pair Given Difference](https://github.com/ArmanNavodia/interview-questions/blob/main/Sorting%20and%20Searching/Find%20Pair%20Given%20Difference.cpp)
+
+###Solved the following problems on Linked List
+* [Convert Binary Number in a Linked List to Integer](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.cpp)
+* [Linked List Cycle](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/141.%20Linked%20List%20Cycle.cpp)
+* [Remove Duplicates from Sorted List](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/83.%20Remove%20Duplicates%20from%20Sorted%20List.cpp)
+* [Middle of the Linked List](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.cpp)
+* [Given a linked list of 0s, 1s and 2s, sort it](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/Given%20a%20linked%20list%20of%200s%2C%201s%20and%202s%2C%20sort%20it.cpp)
+
