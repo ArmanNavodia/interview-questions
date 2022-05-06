@@ -18,3 +18,15 @@
 * [Valid Parentheses](https://github.com/ArmanNavodia/interview-questions/blob/main/Strings/20.%20Valid%20Parentheses.cpp)
 * [Implement strStr()](https://github.com/ArmanNavodia/interview-questions/blob/main/Strings/28.%20Implement%20strStr().cpp)
 * [Longest Common Prefix](https://github.com/ArmanNavodia/interview-questions/blob/main/Strings/14.%20Longest%20Common%20Prefix.cpp)
+* [Valid Palindrome II](https://github.com/ArmanNavodia/interview-questions/blob/main/Strings/680.%20Valid%20Palindrome%20II.cpp)
+
+## Day 3
+### Solved the Mathematical Problems
+* [Add Binary](https://github.com/ArmanNavodia/interview-questions/blob/main/Mathematical%20Problems/67.%20Add%20Binary.cpp)
+* [Maximum Product of Three Numbers](https://github.com/ArmanNavodia/interviewquestions/blob/main/Mathematical%20Problems/628.%20Maximum%20Product%20of%20Three%20Numbers.cpp)
+* [Excel Sheet Column Title](https://github.com/ArmanNavodia/interview-questions/blob/main/Mathematical%20Problems/168.%20Excel%20Sheet%20Column%20Title.cpp)
+* [Happy Number](https://github.com/ArmanNavodia/interview-questions/blob/main/Mathematical%20Problems/202.%20Happy%20Number.cpp)
+* [Palindrome Number](https://github.com/ArmanNavodia/interview-questions/blob/main/Mathematical%20Problems/9.%20Palindrome%20Number.cpp)
+* [Missing Number](https://github.com/ArmanNavodia/interview-questions/blob/main/Mathematical%20Problems/268.%20Missing%20Number.cpp)
+* [Reverse Integer](https://github.com/ArmanNavodia/interview-questions/blob/main/Mathematical%20Problems/7.%20Reverse%20Integer.cpp)
+* [Power of Two](https://github.com/ArmanNavodia/interview-questions/blob/main/Mathematical%20Problems/231.%20Power%20of%20Two.cpp)
