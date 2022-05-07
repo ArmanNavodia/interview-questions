@@ -43,3 +43,12 @@
 * [Middle of the Linked List](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/876.%20Middle%20of%20the%20Linked%20List.cpp)
 * [Given a linked list of 0s, 1s and 2s, sort it](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/Given%20a%20linked%20list%20of%200s%2C%201s%20and%202s%2C%20sort%20it.cpp)
 
+## Day 4
+### Solved the following problems on Linked List
+* [Remove Linked List Elements](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/203.%20Remove%20Linked%20List%20Elements.cpp)
+* [Merge Two Sorted Lists](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.cpp)
+* [Multiply two linked lists](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/Multiply%20two%20linked%20lists.cpp)
+* [Intersection of Two Linked Lists](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/160.%20Intersection%20of%20Two%20Linked%20Lists.cpp)
+* [Delete without head pointer](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/Delete%20without%20head%20pointer.cpp)
+* [Palindrome Linked List](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/234.%20Palindrome%20Linked%20List.cpp)
+* [Reverse Linked List](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/206.%20Reverse%20Linked%20List.cpp)
