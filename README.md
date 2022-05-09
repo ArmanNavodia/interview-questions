@@ -52,3 +52,20 @@
 * [Delete without head pointer](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/Delete%20without%20head%20pointer.cpp)
 * [Palindrome Linked List](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/234.%20Palindrome%20Linked%20List.cpp)
 * [Reverse Linked List](https://github.com/ArmanNavodia/interview-questions/blob/main/Linked%20List/206.%20Reverse%20Linked%20List.cpp)
+
+## Day 6
+### Solved the following problems on Stacks and Queues
+* [Implement Queue using Stacks](https://github.com/ArmanNavodia/interview-questions/blob/main/Stacks%20and%20Queues/232.%20Implement%20Queue%20using%20Stacks.cpp)
+* [Backspace String Compare](https://github.com/ArmanNavodia/interview-questions/blob/main/Stacks%20and%20Queues/844.%20Backspace%20String%20Compare.cpp)
+* [Implement Stack using Queues](https://github.com/ArmanNavodia/interview-questions/blob/main/Stacks%20and%20Queues/225.%20Implement%20Stack%20using%20Queues.cpp)
+* [Next Greater Element I](https://github.com/ArmanNavodia/interview-questions/blob/main/Stacks%20and%20Queues/496.%20Next%20Greater%20Element%20I.cpp)
+* [Evaluation of Postfix Expression](https://github.com/ArmanNavodia/interview-questions/blob/main/Stacks%20and%20Queues/Evaluation%20of%20Postfix%20Expression.cpp)
+* [Implement two stacks in an array](https://github.com/ArmanNavodia/interview-questions/blob/main/Stacks%20and%20Queues/Implement%20two%20stacks%20in%20an%20array.cpp)
+
+## Day 7
+### Solved the following problems on trees
+* [Diameter of Binary Tree](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/543.%20Diameter%20of%20Binary%20Tree.cpp)
+* [Invert Binary Tree](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/226.%20Invert%20Binary%20Tree.cpp)
+* [Subtree of Another Tree](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/572.%20Subtree%20of%20Another%20Tree.cpp)
+* [Range Sum of BST](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/938.%20Range%20Sum%20of%20BST.cpp)
+* 
