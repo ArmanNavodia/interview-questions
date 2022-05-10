@@ -69,3 +69,11 @@
 * [Subtree of Another Tree](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/572.%20Subtree%20of%20Another%20Tree.cpp)
 * [Range Sum of BST](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/938.%20Range%20Sum%20of%20BST.cpp)
 
+## Day 8
+### Solved the following problems on trees
+* [Symmetric Tree](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/101.%20Symmetric%20Tree.cpp)
+* [Merge Two Binary Trees](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/617.%20Merge%20Two%20Binary%20Trees.cpp)
+* [Convert Sorted Array to Binary Search Tree](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp)
+* [Maximum Depth of Binary Tree](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/104.%20Maximum%20Depth%20of%20Binary%20Tree.cpp)
+* [Binary Tree Paths](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/257.%20Binary%20Tree%20Paths.cpp)
+* [Same Tree](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/100.%20Same%20Tree.cpp)
