@@ -77,3 +77,12 @@
 * [Maximum Depth of Binary Tree](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/104.%20Maximum%20Depth%20of%20Binary%20Tree.cpp)
 * [Binary Tree Paths](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/257.%20Binary%20Tree%20Paths.cpp)
 * [Same Tree](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/100.%20Same%20Tree.cpp)
+
+## Day 9
+### Solved the following problems on trees
+* [Balanced Binary Tree](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/110.%20Balanced%20Binary%20Tree.cpp)
+* [Path Sum](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/112.%20Path%20Sum.cpp)
+* [Lowest Common Ancestor of a Binary Search Tree](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp)
+* [Sum of Left Leaves](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/404.%20Sum%20of%20Left%20Leaves.cpp)
+* [Minimum Absolute Difference in BST](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/530.%20Minimum%20Absolute%20Difference%20in%20BST.cpp)
+* [Predecessor and Successor](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/Predecessor%20and%20Successor.cpp)
