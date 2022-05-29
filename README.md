@@ -86,3 +86,21 @@
 * [Sum of Left Leaves](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/404.%20Sum%20of%20Left%20Leaves.cpp)
 * [Minimum Absolute Difference in BST](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/530.%20Minimum%20Absolute%20Difference%20in%20BST.cpp)
 * [Predecessor and Successor](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/Predecessor%20and%20Successor.cpp)
+
+## Day 10
+### Solved the following problems on trees
+* [Binary Tree Inorder Traversal](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/94.%20Binary%20Tree%20Inorder%20Traversal.cpp)
+* [Check whether BST contains Dead End](https://github.com/ArmanNavodia/interview-questions/blob/main/tree/Check%20whether%20BST%20contains%20Dead%20End%20.cpp)
+
+### Solved the following problems on graphs
+* [BFS of graph](https://github.com/ArmanNavodia/interview-questions/blob/main/graphs/BFS%20of%20graph.cpp)
+* [DFS of Graph](https://github.com/ArmanNavodia/interview-questions/blob/main/graphs/DFS%20of%20Graph.cpp)
+* [Detect cycle in a directed graph](https://github.com/ArmanNavodia/interview-questions/blob/main/graphs/Detect%20cycle%20in%20a%20directed%20graph.cpp)
+* [Detect cycle in an undirected graph](https://github.com/ArmanNavodia/interview-questions/blob/main/graphs/Detect%20cycle%20in%20an%20undirected%20graph%20.cpp)
+
+## Day 11
+### Solved the following remaining easy problems from Dynamic Programming, Greedy Algorithms, Heaps & PQs
+* [Counting Bits](https://github.com/ArmanNavodia/interview-questions/blob/main/Dynamic%20Programming/338.%20Counting%20Bits.cpp)
+* [Climbing Stairs](https://github.com/ArmanNavodia/interview-questions/blob/main/Dynamic%20Programming/70.%20Climbing%20Stairs.cpp)
+* [Min sum formed by digits](https://github.com/ArmanNavodia/interview-questions/blob/main/Greedy%20Algorithms/Min%20sum%20formed%20by%20digits.cpp)
+* [Largest subarray with 0 sum](https://github.com/ArmanNavodia/interview-questions/blob/main/Heaps%20%26%20PQs/Largest%20subarray%20with%200%20sum.cpp)
